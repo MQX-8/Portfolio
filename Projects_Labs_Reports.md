@@ -12,12 +12,14 @@ The purpose of this lab is to demonstrate my skills, hands-on training, and pers
 ### 2. Password Attack Followed by Successful Authentication
 ### 3. Web App Attack
 ### 4. Persistence Through a Scheduled Task  
+
   
 Throughout the project: 
 ### - I generate alerts and investigate them
 ### - Practice SOC triage and incident analysis
 ### - Build detections, timelines, and analyst reports
 ### - Focus directly on SOC job responsibilities  
+
   
 Additionally, I am knowledgeable in the following IoCs relevant for T1 roles: 
 ## Network IoCs
