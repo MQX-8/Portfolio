@@ -1,6 +1,5 @@
 # About
-Welcome! This site will be where I upload anything and everything relevant to who I am as a person, professional, and limitless learner. Instead of having more of the same (linkedin = resume = indeed = every other job site) I wanted to make this page a representation of me.
-My thought processes, things I do in my spare time, and more will be displayed here to present a holistic profile.
+Welcome! This site will be where I upload anything and everything relevant to who I am as a person, professional, and limitless learner. Instead of having more of the same (linkedin = resume = indeed = every other job site) I wanted to make this page a representation of me. My thought processes, things I do in my spare time, and more will be displayed here to present a holistic profile.
 
 If you clicked on my Github link and it brought you to my repository instead of the website, click [here](https://mqx-8.github.io/Portfolio/).
 
