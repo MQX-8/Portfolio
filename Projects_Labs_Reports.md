@@ -1,6 +1,6 @@
 layout: page
 title: "Projects, Home Labs & Reports"
-permalink: /Portfolio/projects_labs_reports
+permalink: /projects_labs_reports
 
 # About
 This page is where I post my documented projects, home labs and reports -- full and condensed.
