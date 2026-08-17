@@ -7,7 +7,7 @@ UPDATED PROGRESS COMING SOON (Aug. 17-18)
 
 The purpose of this lab is to demonstrate my skills, hands-on training, and personal desire to learn and prepare for a T1 SOC Analyst role. Undoubtedly my lengthiest project to date, I will cover the following attacks which are relevant for T1 positions. 
 
-## Attacks Investigated
+## <span style="color: #a12b20;">Attacks Investigated</span>
 ### 1. Suspicious PowerShell Execution
 ### 2. Password Attack Followed by Successful Authentication
 ### 3. Web App Attack
