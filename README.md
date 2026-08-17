@@ -17,3 +17,5 @@ Resources here.
 # Book Club
 Books I've read.
 
+# Hobby Stuff
+Fitness & nutrition, travel (coming soon!), hiking (also coming soon!), etc.
