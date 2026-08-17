@@ -8,16 +8,16 @@ UPDATED PROGRESS COMING SOON (Aug. 17-18)
 The purpose of this lab is to demonstrate my skills, hands-on training, and personal desire to learn and prepare for a T1 SOC Analyst role. Undoubtedly my lengthiest project to date, I will cover the following attacks which are relevant for T1 positions. 
 
 ## Attacks Investigated
-### Suspicious PowerShell Execution
-### Password Attack Followed by Successful Authentication
-### Web App Attack
-### Persistence Through a Scheduled Task
+### 1. Suspicious PowerShell Execution
+### 2. Password Attack Followed by Successful Authentication
+### 3. Web App Attack
+### 4. Persistence Through a Scheduled Task
 
 Throughout the project: 
-### I generate alerts and investigate them
-### Practice SOC triage and incident analysis
-### Build detections, timelines, and analyst reports
-### Focus directly on SOC job responsibilities
+### - I generate alerts and investigate them
+### - Practice SOC triage and incident analysis
+### - Build detections, timelines, and analyst reports
+### - Focus directly on SOC job responsibilities
 
 Additionally, I am knowledgeable in the following IoCs relevant for T1 roles: 
 ## Network IoCs
