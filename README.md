@@ -8,14 +8,14 @@ Keep in mind: My portfolio is continuously in development and sometimes gets put
 # Home Labs, Projects and Reports
 [This page](https://mqx-8.github.io/Portfolio/Projects_Labs_Reports) contains my documented projects and home labs. 
 
-# My Blog
-Thoughts on research I've done, articles I've read, the state of cybersecurity, etc.
+# ThinkHub
+Thoughts on research I've done, articles I've read, the state of cybersecurity & AI, APT groups, etc.
 
-# Resources
-Resources here.
+# ResourceHub
+Cybersecurity, info sec, IT, etc. Resources here.
 
-# Book Club
-Books I've read.
+# BookHub
+Books I've read...and recommend!
 
-# Hobby Stuff
+# HobbyHub
 Fitness & nutrition, travel (coming soon!), hiking (also coming soon!), etc.
