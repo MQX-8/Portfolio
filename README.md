@@ -3,7 +3,7 @@ Welcome! This site will be where I upload anything and everything relevant to wh
 
 If you clicked on my Github link and it brought you to my repository instead of the website, click [here](https://mqx-8.github.io/Portfolio/).
 
-Keep in mind: My portfolio is continuously in development and sometimes gets put on the backburner!
+Keep in mind: My portfolio is in continuous development and sometimes gets put on the backburner (although I have an idea of how to keep it updated as I work on other projects). So, forgive me if a section isn't fully polished, especially my projects because I will likely upload the raw, crude notes I take as I work on them before converting to full reports :)
 
 # Home Labs, Projects and Reports
 [This page](https://mqx-8.github.io/Portfolio/Projects_Labs_Reports) contains my documented projects and home labs. 
