@@ -22,19 +22,19 @@ Throughout the project:
 \
 Additionally, I am knowledgeable in the following IoCs relevant for T1 roles: 
 ## Network IoCs
-### Bad IP Addresses: Traffic to known hacker servers or command-and-control centers.
-### Bad Domains: Web addresses used to steal data or load malware.
-### Weird Ports: Traffic moving on unexpected ports instead of normal web traffic (ports 80 and 443).
+### - Bad IP Addresses: Traffic to known hacker servers or command-and-control centers.
+### - Bad Domains: Web addresses used to steal data or load malware.
+### - Weird Ports: Traffic moving on unexpected ports instead of normal web traffic (ports 80 and 443).
 
 ## Host IoCs
-### File Hashes: Unique ID numbers for bad files.
-### File Paths: Strange folders where malware hides, like C:\Windows\Temp.
-### Registry Keys: Changes that let bad software start every time the computer boots up.
+### - File Hashes: Unique ID numbers for bad files.
+### - File Paths: Strange folders where malware hides, like C:\Windows\Temp.
+### - Registry Keys: Changes that let bad software start every time the computer boots up.
 
 ## Email IoCs
-### Bad Senders: Fake email addresses that look like real companies (spoofing).
-### Bad Links: Links in emails that point to fake login pages.
-### Weird Attachments: Files ending in .exe, .scr, or hidden inside zip files.
+### - Bad Senders: Fake email addresses that look like real companies (spoofing).
+### - Bad Links: Links in emails that point to fake login pages.
+### - Weird Attachments: Files ending in .exe, .scr, or hidden inside zip files.
 
 # Local Network Traffic Analysis: Investigating Suspicious Outbound Connections with WireShark -- Home Lab
 COMPLETED DOCUMENTATION TONIGHT (17 August)
