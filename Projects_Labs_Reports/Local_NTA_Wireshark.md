@@ -60,6 +60,16 @@ streaming endpoint. The ST field in the SSDP response identified DIAL (Discovery
 discovery mechanism used by compatible media applications and receivers to locate and launch
 casting services
 
+## <span style="color:#0a75ad">3. Investigating the 4 TCP Connections</span>
+Root Cause Analysis (RCA) was initiated to correlate endpoint network sockets with active
+application handles. The destination IP/port and local ephemeral ports were mapped to process
+IDs using:
+>  netstat -ano | findstr "192.168.1.217"
+The resulting PIDs were resolved to executable names using:
+>  tasklist /fi "pid eq [PIDs]"
+Process correlation identified four Chromium-based applications: brave.exe, msedge.exe,
+chrome.exe, and steamwebhelper.exe. Each process was consistent with software capable of
+Chromium/Google Cast discovery behavior.
 
 
 
