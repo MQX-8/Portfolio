@@ -93,6 +93,34 @@ browser data. Escalation would be warranted if discovery traffic were paired wit
 payloads, anomalous process ancestry, scanning behavior, unexpected cross-segment
 communication, or unexplained external connections.
 
+## Recommended Defensive Controls
+### 1. Network Segmentation
+Place IoT/entertainment devices on a dedicated VLAN and use inter-VLAN ACLs/firewall policy to restrict unnecessary inbound access to
+workstation and server subnets.
+
+### 2. SIEM/NIDS Baseline Management
+Maintain documented allowlisted/baselined discovery
+patterns rather than broadly suppressing SSDP or mDNS. Alert logic should focus on
+behavioral deviations and unauthorized source/destination combinations.
+
+### 3. Endpoint Hardening via Group Policy (GPO)
+Disable Google Cast/Media Router functionality across managed Chrome and
+Edge fleets using the EnableMediaRouter policy (Disabled / False). In Edge environments
+where Cast remains enabled, DIAL discovery can also be disabled with
+EdgeDisableDialProtocolForCastDiscovery.
+
+### 4. Exposure Management
+Do not expose SSDP/UPnP or Cast receiver services directly to the
+internet through unnecessary port forwarding. Use host/network firewalls to limit service
+reachability to approved internal segments.
+
+
+### 5. Asset and Patch Management
+Inventory unmanaged IoT devices, maintain current firmware,
+and monitor for unsupported/end-of-life receivers that could create an unmanaged lateralmovement foothold.  
+
+## <span style="color:#0a75ad">5. Lessons Learned and Conclusion</span>
+
 
 
 
