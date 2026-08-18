@@ -7,7 +7,7 @@ Keep in mind: My portfolio is in continuous development and sometimes gets put o
 
 
 # <span style="color: #0a75ad;">**Home Labs, Projects and Reports**</span>
-[This page](https://mqx-8.github.io/Portfolio/Projects_Labs_Reports/about) contains my documented projects and home labs. 
+[This page](https://mqx-8.github.io/Portfolio/Projects_Labs_Reports/Overview) contains my documented projects and home labs. 
 
 # <span style="color: #0a75ad;">**ThinkHub**</span>
 Thoughts on research I've done, articles I've read, the state of cybersecurity & AI, APT groups, etc.
