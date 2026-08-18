@@ -9,7 +9,7 @@ This page is where I post my documented projects, home labs and reports. Not all
 I designed this lab to include a Kali Linux attack machine, a Windows 10 host, an Ubuntu host running OWASP Juice Shop, and an Ubuntu Server acting as Wazuh Server to simulate realistic SOC scenarios. Sysmon and Sysmon for Linux are installed on the 2 workstations and the Wazuh agents are configured to push those logs to the Wazuh server.  
 
 **UPDATE:** 18 August 2026
-<blockquote><p>This lab was originally intended to be proof of concept for T1 SOC Analyst skills, thus I wasn't too worried about a secure network design. However, the Security/Blue Team/Cautious instincts in me are screaming to put in the extra time and work to implement a 5th VM -- a pfSense firewall to to isolate the SIEM infrastructure on a dedicated management subnet. Endpoint-to-SIEM communications will now be restricted by stateful firewall policy to required Wazuh services.</p><blockquote>  
+<blockquote><p>This lab was originally intended to be proof of concept for T1 SOC Analyst skills, thus I wasn't too worried about a secure network design. However, the Security/Blue Team/Cautious instincts in me are screaming to put in the extra time and work to implement a 5th VM -- a pfSense firewall to to isolate the SIEM infrastructure on a dedicated management subnet. Endpoint-to-SIEM communications will now be restricted by stateful firewall policy to required Wazuh services.</p></blockquote>  
 
 # <span style="color: #4af137;">**Local Network Traffic Analysis: Investigating Suspicious Outbound Connections with WireShark -- Home Lab**</span>
 [***FULL DOCUMENTATION HERE.***](https://mqx-8.github.io/Portfolio/Projects_Labs_Reports/Local_NTA_Wireshark)
