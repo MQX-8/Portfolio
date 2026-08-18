@@ -65,7 +65,7 @@ Root Cause Analysis (RCA) was initiated to correlate endpoint network sockets wi
 application handles. The destination IP/port and local ephemeral ports were mapped to process
 IDs using:
 
->  netstat -ano | findstr "192.168.1.217"
+>  netstat -ano \| findstr "192.168.1.217"
 
 The resulting PIDs were resolved to executable names using:
 
