@@ -34,7 +34,7 @@ Additionally, I am knowledgeable in the following IoCs relevant for T1 roles:
 ## Email IoCs
 ### - Bad Senders: Fake email addresses that look like real companies (spoofing).
 ### - Bad Links: Links in emails that point to fake login pages.
-### - Weird Attachments: Files ending in .exe, .scr, or hidden inside zip files.\
+### - Weird Attachments: Files ending in .exe, .scr, or hidden inside zip files.
 <br>
 
 # <span style="color: #4af137;">Local Network Traffic Analysis: Investigating Suspicious Outbound Connections with WireShark -- Home Lab</span>
