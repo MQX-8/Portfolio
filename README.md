@@ -16,7 +16,7 @@ Thoughts on research I've done, articles I've read, the state of cybersecurity &
 Cybersecurity, info sec, IT, etc. Resources here.
 
 # BookHub
-Books I've read...and recommend!
+Personal growth books I've read...and recommend! No other genres will be listed here.
 
 # HobbyHub
-Fitness & nutrition, travel (coming soon!), hiking (also coming soon!), etc.
+Fitness & nutrition, travel (coming soon!), hiking (also coming soon!), Philadelphia Eagles football, etc.
