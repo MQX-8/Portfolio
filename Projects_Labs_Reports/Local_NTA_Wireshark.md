@@ -1,2 +1,9 @@
 Full Report: [Wireshark_Report_HomeLab_SOC_Polished.pdf](https://github.com/user-attachments/files/31169791/Wireshark_Report_HomeLab_SOC_Polished.pdf)
 
+
+## Wireshark Lab | Investigating SSDP, UPnP, and Google Cast Between Chromium Devices & Applications
+### SOC Incident Triage Report | By: Mario Hilt  
+
+<img width="633" height="293" alt="Screenshot 2026-08-18 042835" src="https://github.com/user-attachments/assets/7da3d32f-c3e6-46ea-a292-4c0255829eec" />
+
+## <span style="color:#0a75ad">Executive Summary</span>
