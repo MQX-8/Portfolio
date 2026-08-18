@@ -1,4 +1,4 @@
-Full Report: [Wireshark_Report_HomeLab_SOC_Polished.pdf](https://github.com/user-attachments/files/31169791/Wireshark_Report_HomeLab_SOC_Polished.pdf)
+***Full Report: [Wireshark_Report_HomeLab_SOC_Polished.pdf](https://github.com/user-attachments/files/31169791/Wireshark_Report_HomeLab_SOC_Polished.pdf)***
 
 
 ## Wireshark Lab | Investigating SSDP, UPnP, and Google Cast Between Chromium Devices & Applications
