@@ -120,7 +120,7 @@ Inventory unmanaged IoT devices, maintain current firmware,
 and monitor for unsupported/end-of-life receivers that could create an unmanaged lateralmovement foothold.  
 
 ## <span style="color:#0a75ad">5. Lessons Learned and Conclusion</span>
-*Key Investigation Takeaways & Analytical Methods in full report at top of page.*  
+***Key Investigation Takeaways & Analytical Methods in full report at top of page.***  
 
 Final disposition: False Positive / Benign Positive (Legitimate Telemetry). SSDP, UPnP, DIAL, and
 Cast discovery observed in the capture were consistent with expected local-device discovery
