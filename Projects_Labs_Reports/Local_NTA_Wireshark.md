@@ -73,7 +73,25 @@ The resulting PIDs were resolved to executable names using:
 
 Process correlation identified four Chromium-based applications: brave.exe, msedge.exe,
 chrome.exe, and steamwebhelper.exe. Each process was consistent with software capable of
-Chromium/Google Cast discovery behavior.
+Chromium/Google Cast discovery behavior.  
+
+The endpoint correlation resolved the initial alert condition. No unknown initiating process,
+unexplained external destination, or additional indicator of compromise was identified within
+the scoped capture. The sessions were therefore classified as legitimate Google Cast/DIAL
+telemetry and closed as a False Positive / Benign Positive.  
+
+## <span style="color:#0a75ad">4. Security Implications and Possible Mitigations</span>  
+### Discovery and Reconnaissance Considerations
+SSDP, mDNS, UPnP, and DIAL can expose device and service metadata to systems on the same
+local network. Meaning, a compromised internal host or unmanaged IoT endpoint could use the same discovery surface to support reconnaissance.  
+
+### Potential Lateral-Movement / Exploit Path
+A compromised streaming device could theoretically become an internal foothold and interact
+with compatible applications on the LAN, but browser data theft would require an additional
+vulnerability or exploit chain. Discovery traffic alone does not provide access to protected
+browser data. Escalation would be warranted if discovery traffic were paired with malformed
+payloads, anomalous process ancestry, scanning behavior, unexpected cross-segment
+communication, or unexplained external connections.
 
 
 
