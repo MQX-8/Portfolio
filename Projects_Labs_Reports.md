@@ -6,7 +6,7 @@ This page is where I post my documented projects, home labs and reports -- full 
 ***UPDATE ON PROGRESS COMING SOON (Aug. 17-18)***
 
 # <span style="color: #9a848d;">**Project Overview**</span>
-I designed this lab to include a Kali Linux attack machine, a Windows Server target, an Ubuntu host running OWASP Juice Shop, and an Ubuntu Server acting as Wazuh Server to simulate realistic SOC scenarios. Sysmon and Sysmon for Linux are installed on the workstations and the Wazuh agents are configured to push those logs to the Wazuh server.  
+I designed this lab to include a Kali Linux attack machine, a Windows 10 host, an Ubuntu host running OWASP Juice Shop, and an Ubuntu Server acting as Wazuh Server to simulate realistic SOC scenarios. Sysmon and Sysmon for Linux are installed on the workstations and the Wazuh agents are configured to push those logs to the Wazuh server.  
 
 The purpose of this lab is to demonstrate my skills, hands-on training, and personal desire to learn and prepare for a T1 SOC Analyst role. Undoubtedly my lengthiest project to date, I will cover the following attacks which are relevant for T1 positions. 
 
