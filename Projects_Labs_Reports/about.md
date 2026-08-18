@@ -2,8 +2,8 @@ Back to [Main](https://mqx-8.github.io/Portfolio/).
 
 This page is where I post my documented projects, home labs and reports -- full and condensed. Not all the projects I work on will end up here, only the more exciting ones. Each entry was something I was curious about and wanted to research, learn more about, and become more skilled/experienced in. I believe learning something because you *want* to is significantly different than because you *have* to. So, I figure challenging myself with these projects not only demonstrates additional hands-on experience and skills, but also allows me to learn on a deeper level. Especially considering all the research, troubleshooting, and documentation. Th
 
-# <span style="color: #4af137;">**SOC Detection and Incident-Triage Home Lab (In Progress)**</span>
-***UPDATE ON PROGRESS COMING SOON (Aug. 17-18)***
+# <span style="color: #4af137;">**SOC Detection and Incident-Triage Home Lab**</span> <span style="color: #3d000;">***(In Progress)***</span>
+
 
 # <span style="color: #9a848d;">**Project Overview**</span>
 I designed this lab to include a Kali Linux attack machine, a Windows 10 host, an Ubuntu host running OWASP Juice Shop, and an Ubuntu Server acting as Wazuh Server to simulate realistic SOC scenarios. Sysmon and Sysmon for Linux are installed on the workstations and the Wazuh agents are configured to push those logs to the Wazuh server.  
