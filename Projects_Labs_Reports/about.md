@@ -41,7 +41,7 @@ Additionally, I am able to identify the following IoCs relevant for T1 roles:
 <br>
 
 # <span style="color: #4af137;">**Local Network Traffic Analysis: Investigating Suspicious Outbound Connections with WireShark -- Home Lab**</span>
-[***FULL DOCUMENTATION HERE.***](https://mqx-8.github.io/Projects_Labs_Reports/Local_NTA_Wireshark)
+[***FULL DOCUMENTATION HERE.***](https://mqx-8.github.io/Portfolio/Projects_Labs_Reports/Local_NTA_Wireshark)
 
 # <span style="color: #9a848d;">**Project Overview**</span>
 
