@@ -1,5 +1,8 @@
 <span style="color: #4af137;">***Full reports for each attack I investigate will be published here as I complete them.***</span>
 
+**CRUDE, RAW NOTES:** [CRUDE_RAW_NOTES_Wazuh_SOC_Lab.pdf](https://github.com/user-attachments/files/31175721/CRUDE_RAW_NOTES_Wazuh_SOC_Lab.pdf)
+
+
 The purpose of this lab is to demonstrate my skills, hands-on training, and personal desire to learn and prepare for a T1 SOC Analyst role. Undoubtedly my lengthiest project to date, I am covering the following attacks which are relevant for T1 positions. 
 
 ## <span style="color: #a12b20;">Attacks Investigated</span>
