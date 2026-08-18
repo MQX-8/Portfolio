@@ -23,3 +23,6 @@ Triage objectives:
 - Validate the protocols and services observed in the packet capture, including SSDP, UPnP, DIAL, and Google Cast.
 - Correlate the four network sessions with the local processes that initiated them.
 - Determine whether the activity represented malicious behavior, a misconfiguration, or legitimate baseline telemetry.
+
+### <span style="color: #3d000;">***The next project I'm considering: Threat Hunting with Event Tracing for Windows (ETW) using SilkETW, Windows Event Forwarding (WEF), HELK, and Kibana.***</span>
+This project sounds very interesting and fun, however, it will likely be 2+ months before I can begin. The Fall semester has arrived, my SOC Triage Lab is very lengthy, and I will hopefully be employed soon. 
