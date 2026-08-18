@@ -8,7 +8,7 @@ This page is where I post my documented projects, home labs and reports -- full 
 # <span style="color: #9a848d;">**Project Overview**</span>
 I designed this lab to include a Kali Linux attack machine, a Windows 10 host, an Ubuntu host running OWASP Juice Shop, and an Ubuntu Server acting as Wazuh Server to simulate realistic SOC scenarios. Sysmon and Sysmon for Linux are installed on the workstations and the Wazuh agents are configured to push those logs to the Wazuh server.  
 
-The purpose of this lab is to demonstrate my skills, hands-on training, and personal desire to learn and prepare for a T1 SOC Analyst role. Undoubtedly my lengthiest project to date, I will cover the following attacks which are relevant for T1 positions. 
+The purpose of this lab is to demonstrate my skills, hands-on training, and personal desire to learn and prepare for a T1 SOC Analyst role. Undoubtedly my lengthiest project to date, I am covering the following attacks which are relevant for T1 positions. 
 
 ## <span style="color: #a12b20;">Attacks Investigated</span>
 ### 1. Suspicious PowerShell Execution
@@ -23,7 +23,7 @@ Throughout the project:
 ### - Focus directly on SOC job responsibilities  
 
 \
-Additionally, I am knowledgeable in the following IoCs relevant for T1 roles: 
+Additionally, I am able to identify the following IoCs relevant for T1 roles: 
 ## Network IoCs
 ### - Bad IP Addresses: Traffic to known hacker servers or command-and-control centers.
 ### - Bad Domains: Web addresses used to steal data or load malware.
@@ -41,4 +41,14 @@ Additionally, I am knowledgeable in the following IoCs relevant for T1 roles:
 <br>
 
 # <span style="color: #4af137;">**Local Network Traffic Analysis: Investigating Suspicious Outbound Connections with WireShark -- Home Lab**</span>
-***FULL DOCUMENTATION WILL BE ADDED TONIGHT (17 August)***
+***FULL DOCUMENTATION HERE.***
+
+# <span style="color: #9a848d;">**Project Overview**</span>
+
+A brief packet capture of the 192.168.1.0/24 home network identified four previously unmapped TCP sessions between workstation 192.168.1.224 and local endpoint 192.168.1.217 on destination port 8009. Traffic anomalies were triaged to determine the origin, protocol context, initiating processes, and legitimacy of the sessions.
+
+Triage objectives:
+- Identify and classify the previously unmapped endpoint.
+- Validate the protocols and services observed in the packet capture, including SSDP, UPnP, DIAL, and Google Cast.
+- Correlate the four network sessions with the local processes that initiated them.
+- Determine whether the activity represented malicious behavior, a misconfiguration, or legitimate baseline telemetry.
