@@ -81,11 +81,11 @@ the scoped capture. The sessions were therefore classified as legitimate Google 
 telemetry and closed as a False Positive / Benign Positive.  
 
 ## <span style="color:#0a75ad">4. Security Implications and Possible Mitigations</span>  
-### Discovery and Reconnaissance Considerations
+### <span style="color:#a12b20">Discovery and Reconnaissance Considerations</span>
 SSDP, mDNS, UPnP, and DIAL can expose device and service metadata to systems on the same
 local network. Meaning, a compromised internal host or unmanaged IoT endpoint could use the same discovery surface to support reconnaissance.  
 
-### Potential Lateral-Movement / Exploit Path
+### <span style="color:#a12b20">Potential Lateral-Movement / Exploit Path</span> 
 A compromised streaming device could theoretically become an internal foothold and interact
 with compatible applications on the LAN, but browser data theft would require an additional
 vulnerability or exploit chain. Discovery traffic alone does not provide access to protected
@@ -120,7 +120,18 @@ Inventory unmanaged IoT devices, maintain current firmware,
 and monitor for unsupported/end-of-life receivers that could create an unmanaged lateralmovement foothold.  
 
 ## <span style="color:#0a75ad">5. Lessons Learned and Conclusion</span>
+*Key Investigation Takeaways & Analytical Methods in full report at top of page.*  
 
+Final disposition: False Positive / Benign Positive (Legitimate Telemetry). SSDP, UPnP, DIAL, and
+Cast discovery observed in the capture were consistent with expected local-device discovery
+and control behavior. No indicators of compromise were identified within the scoped evidence.  
+
+The investigation demonstrates why SOC analysts should validate network alerts with endpoint
+and asset context before escalation. Legitimate discovery services can resemble anomalous
+traffic and can also expose useful reconnaissance metadata if abused. Effective triage therefore
+depends on establishing a known-good baseline, preserving visibility into deviations, and asking
+three questions: Who can access the service, what information can they learn from it, and what
+actions can they perform afterward?
 
 
 
