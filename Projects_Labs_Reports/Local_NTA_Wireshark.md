@@ -3,9 +3,8 @@
 
 ## Wireshark Lab | Investigating SSDP, UPnP, and Google Cast Between Chromium Devices & Applications
 ### SOC Incident Triage Report  
-
-
-><img width="633" height="293" alt="Screenshot 2026-08-18 042835" src="https://github.com/user-attachments/assets/7da3d32f-c3e6-46ea-a292-4c0255829eec" />
+  
+  ><img width="633" height="293" alt="Screenshot 2026-08-18 042835" src="https://github.com/user-attachments/assets/7da3d32f-c3e6-46ea-a292-4c0255829eec" />
 
 ## <span style="color:#0a75ad">Executive Summary</span>
 <blockquote><p>On July 27, 2026, network monitoring identified unexpected outbound TCP connections on
