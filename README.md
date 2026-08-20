@@ -1,4 +1,4 @@
-⚠️ Project Discontinued ⚠️ All information from this repo/site will be transferred Aug. 19-20.
+⚠️ Project Discontinued ⚠️ All information from this repo/site will be transferred Aug. 19-20.<br>
 **NEW SITE [HERE](https://mqx-8.github.io/My_Portfolio/).**  
 
 # <span style="color: #0a75ad;">**About**</span>
