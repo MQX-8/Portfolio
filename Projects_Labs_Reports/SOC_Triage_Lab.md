@@ -3,7 +3,7 @@
 **CRUDE, RAW NOTES:** [CRUDE_RAW_NOTES_Wazuh_SOC_Lab.pdf](https://github.com/user-attachments/files/31175721/CRUDE_RAW_NOTES_Wazuh_SOC_Lab.pdf)
 
 
-The purpose of this lab is to demonstrate my skills, hands-on training, and personal desire to learn and prepare for a T1 SOC Analyst role. Undoubtedly my lengthiest project to date, I am covering the following attacks which are relevant for T1 positions. 
+The purpose of this lab is to demonstrate my skills, hands-on training, and personal desire to learn and prepare for a T1 SOC Analyst role. I am only covering the following attacks for now, which are relevant for T1 positions, but I may document more attacks over time.
 
 ## <span style="color: #a12b20;">Attacks Investigated</span>
 ### 1. Suspicious PowerShell Execution
